@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/bg3.jpg);
+    align-content: center;
+    align-items: center;
+    background-size: cover;
+    /* font-family:  Arial, sans-serif; */
+}
+
+.box{
+    /* position: absolute;
+    top: 50%;
+    left: 50%; */
+    /* width: 100%; 
+     height: 100%; */
+    margin: 0 auto;
+    margin-top: 130px;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+    color: white;
+   
+   
+}
+
+.box input{
+    /* background-color: transparent; */
+ 
+}
+
+.box h2{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.box #btnsubmit{
+    margin-top: 14px;
+    /* margin-left: 17px */
+}
+#forget-password{
+    float: right;
+    margin-top: 28px;
+}
+#Signup{
+    margin-top: 23px;
+    margin-bottom: 22px;
+}
+
+
+
+
+/*style For sign up form */
+
+
+.box2{
+    /* position: absolute;
+    top: 50%;
+    left: 50%; */
+    /* width: 100%; 
+     height: 100%; */
+    margin: 0 auto;
+    margin-top: 90px;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+    color: white;
+   
+   
+}
+
+.box input{
+    /* background-color: transparent; */
+ 
+}
+
+.box2 h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.box2 #btnsubmit{
+    margin-top: 14px;
+    /* margin-left: 17px */
+}
+.box2 #forget-password{
+    float: right;
+    margin-top: 28px;
+}
+.box2 #Signup{
+    margin-top: 23px;
+    margin-bottom: 22px;
+}
